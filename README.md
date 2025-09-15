@@ -1,2 +1,1 @@
-# Adsterra
-Adsterra
+
